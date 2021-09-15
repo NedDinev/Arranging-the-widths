@@ -1,0 +1,20 @@
+fieldset {
+  width: 300px;
+  color: #2d2d2d;
+  border: 1px solid #2d2d2d;
+}
+
+input,
+textarea {
+  width: 240px;
+  margin-bottom: 5px;
+}
+
+input::placeholder {
+  color: #000000;
+}
+
+select {
+  width: 250px;
+  margin-bottom: 5px;
+}
